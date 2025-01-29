@@ -1,0 +1,5 @@
+name = "bolt-diy"
+type = "javascript"
+account_id = "ff385fa9adfadd4240facb54567b44b5"
+workers_dev = true
+compatibility_date = "2024-01-29"
