@@ -6,5 +6,5 @@ compatibility_date = "2024-01-29"
 
 [site]
 bucket = "./dist"
-pages_build_output_dir = "./dist"
+
 
